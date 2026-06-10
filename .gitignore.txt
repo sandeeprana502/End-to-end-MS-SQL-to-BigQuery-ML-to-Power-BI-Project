@@ -1,0 +1,18 @@
+# credentials
+*.json
+bq-key.json
+service_account.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Power BI temp files
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
